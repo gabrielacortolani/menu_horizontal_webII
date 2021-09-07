@@ -1,6 +1,5 @@
 import './App.css';
 import Menu from './Menu_horizontal.js';
-import menu from "./Menu_horizontal.js";
 
 function App() {
   return (
